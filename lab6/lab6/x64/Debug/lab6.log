@@ -1,0 +1,4 @@
+﻿  MD.cpp
+C:\Users\Andra Ursa\Desktop\sda\lab6\lab6\MD.cpp(94,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Andra Ursa\Desktop\sda\lab6\lab6\MD.cpp(25): warning C4715: 'MD::actPrimLiber': not all control paths return a value
+  lab6.vcxproj -> C:\Users\Andra Ursa\Desktop\sda\lab6\x64\Debug\lab6.exe
